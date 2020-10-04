@@ -5,9 +5,7 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0     | :white_check_mark: |
+No security updates are done, all versions will be listed on this GitHub repository, the PCBrew website, and the PCBrew page on WiiBrew.org and users will need to perform updates themselves.
 
 ## Reporting a Vulnerability
 
